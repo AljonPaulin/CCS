@@ -471,6 +471,7 @@
         text-align: center;
     }
     .home-title{
+        color: white;
         font-size: 2em ;
         max-width: 350px;
         padding-top: 230px;
@@ -574,6 +575,7 @@
     
     }
     .home-title{
+        color: white;
         z-index: 1;
         font-size: 3em ;
         padding-top: 48%;
@@ -663,6 +665,7 @@
     
     }
     .home-title{
+        color: white;
         margin: 0 auto;
         padding-left: initial;
         padding-top: 40px;
@@ -749,6 +752,7 @@
 }
 @media (min-width:769px) and (max-width: 1025px) {
     .home-title {
+        color: white;
         font-size: 4.2em;
     }
 
