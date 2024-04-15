@@ -465,7 +465,7 @@
 
 
 
-@media (max-width: 345px) {
+@media (max-width: 349px) {
     
     .homePage{
         text-align: center;
@@ -569,7 +569,7 @@
     }
 
 
-@media (min-width:345px) and (max-width: 601px) {
+@media (min-width:350px) and (max-width: 601px) {
     .homePage{
         text-align: center;
     
