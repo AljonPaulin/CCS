@@ -396,7 +396,7 @@
 
 
 
-@media (max-width: 349px) {
+@media (max-width: 452px) {
     .profile-pic{
         width: 50px;
         height: 50px;
@@ -408,7 +408,7 @@
     .search-con{
         right: 70px;
     }
-    .bar ul {
+    /* .bar ul {
         width: 100%;
         display: flex;
         justify-content: space-between;
@@ -423,10 +423,9 @@
         padding: 5px 5px;
         width: 70px;
         margin-bottom: 20px;
-        text-align: center;
-        font-weight: bold;
-    }
-    /* .bar ul li {
+        
+    } */
+    .bar ul li {
         background-color: #112d4e;
         color: white;
         font-family: Arial;
@@ -436,7 +435,7 @@
         text-align: center;
         font-weight: bold;
         font-size: .6em;
-    } */
+    }
     .profile-name{
         display: none;
     }
@@ -502,7 +501,7 @@
 }
 
 
-@media (min-width:350px) and (max-width: 601px) {
+@media (min-width:453px) and (max-width: 601px) {
     .profile-name{
         display: none;
     }

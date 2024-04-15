@@ -465,13 +465,12 @@
 
 
 
-@media (max-width: 349px) {
+@media (max-width: 452px) {
     
     .homePage{
         text-align: center;
     }
     .home-title{
-        color: rgb(255, 0, 0);
         font-size: 2em ;
         max-width: 350px;
         padding-top: 230px;
@@ -569,7 +568,7 @@
     }
 
 
-@media (min-width:350px) and (max-width: 601px) {
+@media (min-width:453px) and (max-width: 601px) {
     .homePage{
         text-align: center;
     
