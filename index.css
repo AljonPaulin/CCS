@@ -113,10 +113,10 @@
 /* practice button for entering the system since the login is not working yet */
 .log{
     position: absolute;
-   bottom: 30px;
+   bottom: 40px;
    background-color: #112d4e;
    color: white;
-   padding: 5px;
+   padding: 10px;
    cursor: pointer;
 }
 .welcome{
