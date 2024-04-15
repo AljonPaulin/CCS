@@ -20,7 +20,7 @@
     flex: 7.5;
     height:100vh;
     background-size: cover;
-    background: url(/assets/homebg.jpg);
+    background: url(/CCS/assets/homebg.jpg);
 }
 .con-sideBar{
     background: linear-gradient(0deg, rgb(18, 15, 58) 0%, rgba(3, 20, 112, 0.807) 87%);
