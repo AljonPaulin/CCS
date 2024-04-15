@@ -17,7 +17,7 @@ function createTemplate(id) {
     const details = parentBox.querySelector('.info-details').innerHTML;
     const template = `
     <div class="box-whole">
-    <div><img src="/assets/boxvr.png" class="box-shape"></div>
+    <div><img src="/CCS/assets/boxvr.png" class="box-shape"></div>
     <div class="info-main-title">${title}</div>
     <div class="exit" id="exit"><</div>
     <div class="info-w">${time}</div>
